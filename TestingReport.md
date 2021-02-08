@@ -7,8 +7,8 @@
 На тестирование затрачено: 34 минуты
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Nadine0109/CardValidatorTesting/issues/1
-* https://github.com/Nadine0109/CardValidatorTesting/issues/2
+* [Карты системы American Express не распознаются как валидные](https://github.com/Nadine0109/CardValidatorTesting/issues/1)
+* [Карты системы Diners Club - International не распознаются как валидные](https://github.com/Nadine0109/CardValidatorTesting/issues/2)
 
 
 ## Описание процесса тестирования
@@ -17,10 +17,9 @@
 По результатам тестирования были выявлены дефекты в распознавании карт систем American Express (AMEX) и Diners Club -International.
 
 
-Программный код для программы валидации был взят в данном источнике: 
-https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---credit-card-number-validator
+Программный код для программы валидации был взят в данном [источнике](https://github.com/netology-code/javaqa-homeworks/tree/master/intro#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-2---credit-card-number-validator)
 
-В качестве тестовых данных использовались случайно сгенерированные данные с сайта https://www.freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались случайно сгенерированные данные с [сайта](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 
 * VISA:
   
